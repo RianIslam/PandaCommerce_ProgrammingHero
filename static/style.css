@@ -1,0 +1,11 @@
+.catagories .carousel-item{
+    background-color: aqua;
+    border-radius: 1em;
+}
+.Commerce img{
+    width: 100px;
+}
+.panda-card-footer{
+    border: none;
+    background-color: white;
+}
